@@ -1,2 +1,7 @@
+<h1 align="center">
+  <img src="./assets/husk-1.png" alt="BBLogo" width="250" /></br></br>
+  <strong style="font-size:75px;">Don't Stop Creating Chaos</strong>
+</h1></br>
+
 The purpose of this repo is to document workflows I have found helpful in development. It will cover beginner workflows to more advanced workflows. This is a WIP. 
 All branch naming conventions should follow the `directory-mm-dd-iteration` scheme for simplicity sake. 
