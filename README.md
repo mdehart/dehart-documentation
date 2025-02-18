@@ -1,0 +1,2 @@
+The purpose of this repo is to document workflows I have found helpful in development. It will cover beginner workflows to more advanced workflows. This is a WIP. 
+All branch naming conventions should follow the `directory-mm-dd-iteration` scheme for simplicity sake. 
