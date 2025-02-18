@@ -1,6 +1,9 @@
-# js-set
+# Javascript/Git Setup
 This Document is to outline the process for setting up git and nvm.
-# end-intro
-# begin-body
+# Package Manager
+# Git Installation
+# Code Changes
+# .ts Installation
+# Basic Scripting
 
 # end-body
