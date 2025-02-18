@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/images/husk-1.png" alt="BBLogo" width="250" /></br></br>
+  <img src="./assets/images/bb-1.png" alt="BBLogo" width="250" /></br></br>
   <strong style="font-size:60px;">Don't Stop Creating Chaos</strong>
 </h1></br>
 
