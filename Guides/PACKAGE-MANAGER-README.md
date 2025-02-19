@@ -1,4 +1,8 @@
-# Package Manager
+<h1 align="center">
+  <img src="./assets/images/bb-1.png" alt="BBLogo" width="250" /></br></br>
+  <strong style="font-size:60px;">Package Manager</strong>
+</h1></br>
+
 This doc outlines the steps I found easiest for installing a package manager. The top 2 package managers of choice are nvm and npm. I recommend nvm just due to ease of use. 
 
 To install NVM run the following command:
